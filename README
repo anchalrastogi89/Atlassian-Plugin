@@ -2,6 +2,11 @@ Source code for:
 
 https://developer.atlassian.com/display/DOCS/Set+up+the+Atlassian+Plugin+SDK+and+Build+a+Project
 
+The files we looked at in this tutorial were:
+
+- pom.xml
+- /src/main/resources/atlassian-plugin.xml
+
 -------------------------------------------------------------------------------------
 Here are the SDK commands you'll use immediately:
 
